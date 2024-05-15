@@ -2,6 +2,14 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const a = 123;
+
+  const str = 'asfasf';
+
+  const str2 = 'asfasf';
+
+  const variable = '1234';
+
   return (
     <div className="App">
       <header className="App-header">
