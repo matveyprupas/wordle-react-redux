@@ -6,8 +6,6 @@ function App() {
 
   const str = 'asfasf';
 
-  const str2 = 'asfasf';
-
   const variable = '1234';
 
   return (
